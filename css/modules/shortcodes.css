@@ -1064,6 +1064,8 @@
 		display: block;
 		float: left;
 		width: 25%;
+		padding-left: 15px;
+		padding-right: 15px;
 		min-height: 30px;
 		border: 1px solid #ddd;
 		box-sizing: border-box;
@@ -1071,7 +1073,7 @@
 		margin: 0px;
 		margin-left: 0px;
 		margin-left: -1px;
-		margin-bottom:-1px;
+		margin-bottom: 5px;
 	}
 	
 	.light-content .clients-table li {
